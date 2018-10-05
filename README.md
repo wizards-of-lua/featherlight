@@ -26,7 +26,7 @@ These are the steps to install and run the Claiming Heads on your Minecraft Serv
 3. **Install The Wand of the Featherlight Flight Spell Pack**
 
     Download the JAR file containing the latest Version of 
-    [The Wand of the Featherlight Flight Spell Pack](https://minecraft.curseforge.com/projects/featherlight-spell-pack/files) and place it
+    [The Wand of the Featherlight Flight Spell Pack](https://minecraft.curseforge.com/projects/the-wand-of-the-featherlight-flight-spell-pack/files) and place it
     into the `mods` directory of your Minecraft server.
     
 4. **Restart the Server**

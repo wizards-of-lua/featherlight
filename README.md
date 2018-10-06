@@ -38,12 +38,7 @@ Just execute the following Minecraft command:
 ```
 /give @p minecraft:feather 1 0 {Wand:"featherlight-flight",display:{Name:"Wand of Featherlight Flight",Lore:["Look into the sky and swing this wand"]},ench:[{id:99,lvl:1}]}
 ```
-#### By Spell Pack Command
+#### Or By Spell Pack Command
 ```
-/give-feather <player>
+/give-feather @p
 ```
-Examples:
-```
-/give-feather MrNickKay
-```
-gives MrNickKay the wand of featherlight flight
